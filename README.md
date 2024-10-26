@@ -1,5 +1,7 @@
 # 🎥 Movie Plot - Translator
 
+![Static Badge](https://img.shields.io/badge/DevCarlos-Movie%20Plot-purple?style=flat) ![GitHub License](https://img.shields.io/github/license/devCarlosHenSil/Movie-Plots?style=flat&color=blue)
+
 ## 📖 Descrição
 
 **Movie Plot - Translator** é um projeto de back-end que consome a API do **The Open Movie Database** para extrair as sinopses de filmes, que são automaticamente traduzidas com o auxílio do **LibreTranslate**, um projeto open source.
