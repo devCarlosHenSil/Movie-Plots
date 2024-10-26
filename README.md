@@ -17,6 +17,7 @@ A motivação por trás do **Movie Plot - Translator** foi testar minhas habilid
 - **JavaScript**: ✨ Linguagem de programação usada para construir a lógica do projeto.
 - **Node.js**: 🟢 Ambiente de execução para o JavaScript no servidor.
 - **npm**: 📦 Gerenciador de pacotes utilizado no projeto.
+- **Express**: 🚀 Framework web para Node.js, facilitando a construção de APIs.
 - **Docker**: 🐳 Ferramenta para criar contêineres, garantindo que o ambiente do projeto seja replicável.
 - **LibreTranslate**: 🌐 Biblioteca open source utilizada para tradução automática.
 - **API do The Open Movie Database**: 🎞️ Fonte das sinopses dos filmes.
