@@ -75,11 +75,10 @@ Este projeto está licenciado sob a [MIT License](LICENSE.md). Isso significa qu
 - 📊 Desenvolver o front-end do projeto 
 - 🔧 Continuar a evolução do projeto com novos aprimoramentos e funcionalidades.  
 
-## 📬 Contato
+## 📫 Contato
 
-Se você tiver dúvidas, sugestões ou apenas quiser entrar em contato, sinta-se à vontade para me encontrar nas seguintes plataformas:
+Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato:
 
-- E-mail: sh.carlos.henrique@gmail.com
-- LinkedIn: Carlos Henrique Silva
-- GitHub: devCarlosHenSil
-
+- **E-mail**: [sh.carlos.henrique@gmail.com](mailto:sh.carlos.henrique@gmail.com)
+- **LinkedIn**: [Carlos Henrique Silva](https://www.linkedin.com/in/carlos-henrique-silva-dev/)
+- **GitHub**: [devCarlosHenSil](https://github.com/devCarlosHenSil)
